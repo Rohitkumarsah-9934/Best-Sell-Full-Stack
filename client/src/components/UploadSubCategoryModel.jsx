@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { IoClose } from "react-icons/io5";
-import uploadImage from "../utils/uploadImage";
+import uploadImage from "../utils/UploadImage";
 import { useSelector } from "react-redux";
 import toast from "react-hot-toast";
 import summaryApi from "../common/SummaryApi";
