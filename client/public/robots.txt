@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://best-self-full-stack-9jzn.vercel.app/sitemap.xml
